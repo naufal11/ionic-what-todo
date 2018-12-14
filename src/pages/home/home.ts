@@ -18,7 +18,8 @@ export class HomePage {
     this.items = [
       {title: 'hi1', description: 'test1'},
       {title: 'hi2', description: 'test2'},
-      {title: 'hi3', description: 'test3'}
+      {title: 'hi3', description: 'test3'},
+      {title: 'hi4', description: 'test4'}
     ];
   }
 
